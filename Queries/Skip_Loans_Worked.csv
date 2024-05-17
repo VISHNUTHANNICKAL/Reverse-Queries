@@ -1,0 +1,1537 @@
+﻿loan_skey,note_type_description,note_type_category_description,note_text,created_date,created_by,investor_name,product_type_description
+11885,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts : LUIS HERNANDEZ : bwr :
+(786) 256-2210 : gvml...reversed the # and deleted the duplicate home #.
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result : Non-Voice Phone
+",10/04/2022,Megha Sawant,Fannie Mae,HECM Standard
+28499,Non-Voice Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: AUGUST R HOLKA - 5412978623 Disc# removed, 5417593839 PVCML (good active # present)
+Result: Non Voice Phone
+Skip Hygiene done- Active number present under AUGUST R HOLKA hence closed the SKPTRC alert",10/03/2022,Asha Shukla,Fannie Mae,HECM Standard
+31492,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+B1/B2:7877527544-Gvcml-validated
+B1:7873720491-Ringing na-Validated
+Result:PHN 
+
+Skip Hygiene done- Active number present under B1/B2 hence closed the SKPTC alert
+",10/03/2022,Deepika Mathur,Fannie Mae,HECM Standard
+31810,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:7875333868-Gvcml
+Alt Cont:JESUS OZORES:7873689588-Pvcml for diff name-deleted
+ATP:Milagros Ozores Cruz:7873418910-Gvcml-validated
+Result:PHN 
+
+Skip Hygiene done- Active number present under Bor and ATP hence closed the SKPTC alert",10/03/2022,Deepika Mathur,Fannie Mae,HECM Standard
+31928,RPC Phone,Skip Tracing,"Dialled Numbers:
+
+Contact:
+Borr- AURELIA BERMUDEZ MORELL- (787) 644-2324- Answering Machine.
+Auth- Aurie Rios- (787) 485-3836- GVML.
+POA- ORLANDO RIOS BERMUDEZ- (787) 798-6370- He verified him self but wanted to speak with some one in spanish.
+Asked if can get an interpretor. he agreed.
+So conferenced the call with an Interpretor.
+
+Verified the Cell No.
+He doesnot wanst to add any other phone no for him.
+Verified the Mailing Address Address and Email.
+Took TCPA Concent.
+
+Verified the borr cell No. 
+He sai dthat his mom is 89 and is in the nursering home so the phone no will be his right contact.
+He doesnot wanst to add any other phone no for the borr.
+Verified the Mailing Address Address and Email.
+
+Result: RPC Phone.",10/03/2022,Mahesh Patil,Cascade Funding Mortgage Trust - HB5,HECM Standard
+31997,Skip Exhausted,Skip Tracing,"Dialled Numbers:
+Contact:
+Borr- NOEMI ROBLEDO ROSARIO- 787-526-5200 No Answer.
+Alt- Elizabeth Mas- (832) 526-9526- The person who answered the call said she is in Doctors Appt.
+
+IVR: NA.
+
+Notes: Borr- NOEMI ROBLEDO ROSARIO- Same As Above.
+
+Documents: Same As Above.
+CBC:
+Borr- NOEMI ROBLEDO ROSARIO- 787-780-1871- Busy Tone.
+787-783-5854- NIS.
+Other- DESIREE MASS- 832-277-2899- GVML.
+
+Result: Skip Exhausted.",10/03/2022,Mahesh Patil,Cascade Funding Mortgage Trust - HB3,HECM Standard
+33347,RPC Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: MARCOS FRANCISCO CANALS VIDAL - (787) 612-1833 spoke to brwr gave tape disclosure he verified his contact information correct on file he was unable to understand TCPA question so did not answer hence consent not updated. He verified his email and mailing address correct gave HRD call back number no further questions.
+Result: RPC Phone",10/03/2022,Asha Shukla,Fannie Mae,HECM Standard
+33703,Skip Exhausted,Skip Tracing,"Numbers Dialed: 
+Brwr: Na
+Alternate Contact : Jerry Ortiz - 7877699780 NIS# removed 
+omar Padilla - 7873497906 Disc# removed
+Notes:  Na
+Documents: NELDY PADILLA CACERES - 7872996922 GVCML
+CBC:  na
+Result: Skip exhausted
+No good contact # found in notes, documents and CBC Innovis.",10/03/2022,Asha Shukla,Fannie Mae,HECM Standard
+34751,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts : JESUS SUAREZ PEREZ : bwr : 
+(787) 761-6794 : dc...removed the #
+(787) 233-3126 : pvml  JESUS SUAREZ
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result: Non-Voice Phone",10/03/2022,Megha Sawant,Fannie Mae,HECM Standard
+35379,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(787) 382-9288--Lydia Diaz Rosado--GVML
+Alt1--(787) 998-2368--Manuel A Morales--no answer
+alt1--(787) 242-8995--answered and not speaking
+alt2--(787) 384-0229--michelle morales Diaz--GVML
+alt3--(787) 733-2804--Disc# removed#
+
+IVR data:
+no info found
+
+Notes:
+no new # found
+
+Documents:
+787-934-9661--GVML
+
+CBC:
+no NEw # found
+
+Result;
+non voice locate for the alt contact and bwr as reached GVML and active #
+
+",10/03/2022,Austin Chettiar,Fannie Mae,HECM Standard
+36677,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts : JOSE FRANCISCO MILLS  MARTINEZ : bwr : no info  
+Alt contact : JORGE ANTONIO MILLS DEE VALLE
+(787) 768-0653 : no ans 
+(780) 340-1604 : # for tp removed the #
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result: Non-Voice Phone
+",10/03/2022,Megha Sawant,Cascade Funding Mortgage Trust - AB1,HECM Standard
+36704,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:jose cell 7873807090 got GVCML
+Alt Cont:Ibrahin cell 7874861760 GVCML
+Notes :got GVCMl in spain then checked closing docs found home number for ibrahin but no answer 
+Result:Non Voice Locate",10/03/2022,Allwyn Dsouza,Cascade Funding Mortgage Trust - HB2,HECM Standard
+36937,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:elizabeth cell 7879091502
+Alt Cont:isis cell 7879081502 
+Notes :dailed cell for elizabeth got isis dailed globo and spoke with isis and deleted home number as it was same as cell 
+Result:RPC/PHONE",10/03/2022,Allwyn Dsouza,Cascade Funding Mortgage Trust - HB4,HECM Standard
+37364,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(787) 405-1569--Miguel Angel BIbiloni Torres--busy#
+
+IVR data:
+no info found
+
+NOtes:
+no NEW # found
+
+Documents:
+787-536-0033--Sussete Bibiloni Gutierrez--Bad#
+
+CBC:
+787-743-3872--no answer
+
+Result:
+non voice locate for the bwr as reached BUSY TONE and active #",10/03/2022,Austin Chettiar,Cascade Funding Mortgage Trust - HB3,HECM Standard
+38470,RPC Phone,Skip Tracing,"Dialled Numbers:
+
+Contact: 
+Borr- MARIA DEL PILAR VELEZ MONRROY- (787) 949-9555.
+Spoke with Auth Ms. TEDDY V HERNANDEZ VELEZ
+She said that is waiting for the occupancy certificate.
+Advised to speak with the CS dept.
+Verified the Home no and Cell No.
+Verified the Email address and Mailing Address.
+Asked if can get a phone no for the borr.
+She said that borr is not well and cannot speak.
+
+Infd the phone no listed for the borr is same as her.
+Verified the borrowers mailing addres and Email.
+Offered the phone no for HRD. Auth said has it.
+Transfed the call to HRD.
+
+Result: RPC Phone.
+",10/03/2022,Mahesh Patil,"Reverse Mortgage Solutions, Inc. 2018-09",HECM Standard
+38606,Non-Voice Phone,Skip Tracing,"Alt contact : 
+Numbers Dialed:
+Contacts : bwr : AIDA LUZ MORALES FERNANDEZ :
+(787) 764-2803 : no ans
+(787) 618-2266 : no ans 
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result: Non-Voice Phone",10/03/2022,Megha Sawant,"Reverse Mortgage Solutions, Inc. 2018-09",HECM Standard
+38864,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+B1:/ATP:JACKELINE RIVERA LAMBOY:7875364864-Gvcml-Validated
+Skip Hygiene done- Active number present under B1/ATP hence closed the SKPTRC alert",10/03/2022,Deepika Mathur,Cascade Funding Mortgage Trust - HB2,HECM Standard
+39061,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+B1:7872100892-Gvcml-validated
+B2:7872100258-Gvcml-validated
+Result:PHN 
+
+Skip Hygiene done- Active number present under B1 and B2 hence closed the SKPTC alert",10/03/2022,Deepika Mathur,Cascade Funding Mortgage Trust - AB1,HECM Standard
+39153,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:glady 6196536266 GVCML
+Alt Cont:Lesli cell 7875600800 no answer Deniis home 6195463935 hung up  
+Notes :checked closing docs no RPC found
+Result:Non Voice Located",10/03/2022,Allwyn Dsouza,Cascade Funding Mortgage Trust - HB2,HECM Standard
+39283,Skip Exhausted,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:jose and laura home 7877522280 & cell 7872260086 both no answer so deleted
+Alt Cont:hilda home 7877879908 no answer for deleted & laura rivera cell 7872080439 hung up 
+Notes :checked closing docs same number found for hilda 
+Result:SKPEXH",10/03/2022,Allwyn Dsouza,"Reverse Mortgage Solutions, Inc. 2018-09",HECM Standard
+39366,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:7872922179-Ringing na-deleted
+ATP:Maria Del C Rodriguez Figueroa:7872870017-NIS-deleted 7876453061-Gvcml-validated
+Alt Cont:Anthony Rodriguez Figueroa:7874493442-Gvcml-validated
+Result:PHN 
+
+Skip Hygiene done- Active number present under ATP:Maria Del C Rodriguez Figueroa/Alt Cont:Anthony Rodriguez Figueroa hence closed the SKPTC alert",10/03/2022,Deepika Mathur,"Reverse Mortgage Solutions, Inc. 2018-09",HECM Standard
+39803,RPC Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(787) 751-4690--ANA LUISA GONZALEZ ISLA--rpc 
+
+Result:
+rpc with the bwr confirmed name and hung up the call",10/03/2022,Austin Chettiar,"Reverse Mortgage Solutions, Inc. 2018-09",HECM Standard
+40172,Non-Voice Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: Marilyn R Moffitt - (530) 257-3751 No answer
+Alternate Contact : Kelli Ruley - 5303450390 Disc# removed
+Mary Rainwater - 5419779032 PVCML (good active # present)
+Results: Non Voice Phone
+Skip Hygiene done- Active number present under Mary Rainwater hence closed the SKPTRC alert",10/03/2022,Asha Shukla,Fannie Mae,HECM Standard
+40462,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+B1:4432207421-spoke to ATP Edgar Santos, gv td, this is also good number to reach b1, he said cobrwr passed away no executor ; 7873639301 is number for Jose Santos; this is his cell#,
+4107719115 is home#, old mailing address:44 Berry Crest Ct Hunt Valley MD 21030 changed to 4 Berry Crest Ct Hunt Valley MD 21030 and email:edgar-santos@comcast.net verified-updated (did not ask TCPA consent and it was already marked as allowed)
+gv him call back# so that the brwr can call us to update her contact info 
+Result:RPC PHN ",10/03/2022,Deepika Mathur,Cascade Funding Mortgage Trust - HB4,HECM Standard
+41346,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+B1:7873911255-No vcml set up-deleted as brwr deceased
+Alt Cont:EZEQUIEL NOGUERAS DIAS:7876048379-Gvcml
+Alt Cont:Ruth Nogueras:Noinfo
+Result:PHN 
+
+Skip Hygiene done- Active number present under Alt Cont:EZEQUIEL NOGUERAS DIAS hence closed the SKPTC alert",10/03/2022,Deepika Mathur,Cascade Funding Mortgage Trust - HB2,HECM Standard
+41433,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+B1/ATP:Arnaldo Rafad Camacho -Rodriguez:7875318484-Pvcml for atp Arnaldo-validated
+B2:7875318487-Gvcml-validated
+Result:PHN 
+
+Skip Hygiene done- Active number present under B1/ATP:Arnaldo Rafad Camacho -Rodriguez and B2 hence closed the SKPTC alert",10/03/2022,Deepika Mathur,Cascade Funding Mortgage Trust - HB4,HECM Standard
+41564,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:7877209248-Ringing na-validated 
+7879065951-Ringing na-validated
+ATP:Richard Torres:7876369114-Gvcml-validated
+
+Skip Hygiene done- Active number present under Bor/ATP:Richard Torres hence closed the SKPTC alert",10/03/2022,Deepika Mathur,Cascade Funding Mortgage Trust - HB3,HECM Standard
+41664,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(787) 764-3410--GWENDOLYN KAY PAGE GOETZ--no answer
+bor1--(787) 697-5280--personal voice mail
+
+Result:
+non voice locate for the bwr as reached PVML",10/03/2022,Austin Chettiar,Cascade Funding Mortgage Trust - HB2,HECM Standard
+76935,Skip Exhausted,Skip Tracing,"Numbers Dialed:
+Contacts : ANGELA LYNCH : bwr : no info **
+ATP : Samarra Lynch : no info
+IVR : no  info
+Notes: (718) 413-5601 : Bn # no dial tone (doc)
+(718) 276-1793 : dc
+Documents: 347-500-5029 : gvml
+CBC Innovis :ATP : Samarra Lynch :
+718-474-4301 : black :dc
+No good contact # found in contact, notes, documents and CBC Innovis.
+Result: Skip Exhausted
+",10/03/2022,Megha Sawant,Cascade Funding Mortgage Trust - HB2,HECM Standard
+89944,Non-Voice Phone,Skip Tracing,"Numbers Dialed: 
+Brwr:  na
+Alternate Contact : CAROLE COMBS - 7142613907 Disc# removed, 7148944967 GVCML (good active # present)
+Notes:  Na
+Documents: WAYNE LEE MORT - 8089825898 No answer, 8083336261 GVCML
+Roger Menescal - 8083336261 Disc#
+CBC:  Na
+Result: Non Voice phone
+Skip Hygiene done- Active number present under CAROLE COMBS hence closed the SKPTRC alert",10/03/2022,Asha Shukla,BAML,Simple Equity
+104184,Non-Voice Phone,Skip Tracing,"Dialled Numbers:
+Contact:
+Borr- SUSAN MARIE STIGERS- (591) 863-6343- Format Not Valid-Removed.
+(541) 863-1802- NIS- Removed.
+Alt- Linda Johnson- (541) 863-6343- GVMl.
+IVR: NA.
+Notes: Same As Above.
+Documents: Same As Above.
+CBC: Same As Above.
+Result: Non Voice Phone.
+
+Skip Hygiene done- Active number present under Contacts hence closed the SKPTRC alert.",10/03/2022,Mahesh Patil,"Reverse Mortgage Solutions, Inc.",HECM Standard
+109961,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:9397777665-spoke to brwr, wanted spanish agent  while connecting he hung up-validated
+Result:RPC PHN ",10/03/2022,Deepika Mathur,"TRM, LLC",HECM Standard
+110000,RPC Phone,Skip Tracing,"Brwr: ALMA M REXACH ROSALES - (787) 994-2522  spoke to brwr gave tape disclosure verified contact information TCPA consent obtained no email address given mailing address correct on file.
+Result: RPC Phone",10/03/2022,Asha Shukla,Cascade Funding Mortgage Trust - AB1,HECM Standard
+114874,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:patricia cell 9099380835 GVCML and home 2090562058 no answer
+Alt Cont:sunnie cell 9099380835 GVCML 
+Notes :even called contact from 1003 form DNC numver
+Result:Non Voice Locate",10/03/2022,Allwyn Dsouza,"Reverse Mortgage Solutions, Inc.",HECM IDL - Refinance
+115289,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts : Amelia Mosqueda : bwr : no info
+ATP : Elizabeth Benavides : no info
+IVR : 956-566-4996 : spoke with ATP : Elizabeth Benavides she confirmed the # as cell #  ... she gave the tcpa consent as yes
+956-540-7094 : she confirmed the # as good home #. she did not provide the email address.
+She info that bwr is in nursing home....
+Result: RPC Phone
+",10/03/2022,Megha Sawant,Seattle Bank Texas Insured,HECM - TX
+115743,Skip Exhausted,Skip Tracing,"Numbers Dialed: 
+Brwr: Na
+Alternate Contact :  Na
+Notes: KAREN S BACKMAN - 4156599170 Disc#
+Documents: KAREN S BACKMAN - 7607964100 Busy#
+Rivka Israel - 8582317762 GVCML
+CBC: Karen Backman - 7607964200 Busy#
+Result: Skip exhausted
+No good contact # found in notes, documents and CBC Innovis.",10/03/2022,Asha Shukla,"Reverse Mortgage Solutions, Inc.",HECM IDL
+121486,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:7138593875-Pcml for  Charles-validated
+Alt Cont:Beverly Lemon:2814373830-Gvcml-Validated
+Result:PHN 
+Skip Hygiene done- Active number present under Bor/Alt cont  hence closed the SKPTRC alert",10/03/2022,Deepika Mathur,"Reverse Mortgage Solutions, Inc.",HECM IDL
+122910,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(719) 445-0764--WILLIAM A FLAUCHER--GVML
+Bor2--(719) 205-0277--Beverly Flaucher--Personal voice mail
+
+Result:
+non voice locate for the co-bwr as reached personal voice mail and the # is active",10/03/2022,Austin Chettiar,"Reverse Mortgage Solutions, Inc.",HECM IDL
+123567,RPC Phone Address,Skip Tracing,"Dialled Numbers:
+Contact:
+Borr- Leslie W Boyle- (806) 282-1296- 
+Spoke with Ms.Carolyn M Boyle.
+Verified the Cell No.
+She doesnot wants to update any new phone no.
+Took TCPA concent.
+Changed the mailing address from 8413 Alexandria Ave AMARILLO TX 79118-
+To 4409 S Ong Street AMARILLO TX 79110.
+Verified the email address.
+
+Verified the Cell No for Borr.
+Changed the mailing address from 8413 Alexandria Ave AMARILLO TX 79118-
+To 4409 S Ong Street AMARILLO TX 79110.
+Verified the email address.
+
+Result: RPC Phone Address.",10/03/2022,Mahesh Patil,"Reverse Mortgage Solutions, Inc.",HECM IDL
+130149,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts : WILLIAM S BROWN: bwr :
+(951) 685-6345 : spoke with bwr2....she hung up
+(714) 744-3600 : Biz # CA loan did not call
+(951) 334-1505 : No dial tone.. removed the #
+Result: RPC Phone
+",10/03/2022,Megha Sawant,"Reverse Mortgage Solutions, Inc.",HECM IDL
+133178,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:5206645062-spoke to brwr, gv td, cell#, TCPA consent Denied; 980 N SOLAR DRIVE, VAIL, AZ 85641 is verified mailing address, email:melodymcd@msn.com verified-updated
+Result:RPC PHN
+",10/03/2022,Deepika Mathur,"Reverse Mortgage Solutions, Inc.",HECM IDL
+201723,Skip Exhausted,Skip Tracing,"Numbers Dialed:
+Contacts : Mary R. Vasquez Tarvin : bwr : no info
+Alt contact : Mary Ruth Vasquez -Tarvin : no info
+IVR : no info
+Notes: 209-723-4719 : dc (green)
+2097774639 : spoke with spoke with bwr's daughter ... she was upset and said we have already taken the house and why are we calling...xfer the call to HRD..opened Icase :Icase number is 80315015.
+Documents:No info
+CBC Innovis : 214-491-7443 (CELL) : black : gvml
+No good Ph #  found in contact, IVR, notes, documents and CBC Innovis.
+Result: Skip Exhausted
+",10/03/2022,Megha Sawant,Cascade Funding Mortgage Trust - HB4,HECM Standard
+208202,Skip Exhausted,Skip Tracing,"Dialled Numbers:
+Contact: NA.
+IVR: NA.
+Notes: NA.
+Documents: 
+Borr- Wallace Futoshi Kuniyuki- 808-389-5231- GVMl.
+Alt- Lynnsey Kuniyuki- 808-387-7984- No Answer.
+CBC:
+Alt- Jane Eiko Kuniyuki- 808-625-1380- Bad No.
+Alt- Lynnsey Kuniyuki- 808-358-2999- The person who answered the call said its Wrong No.
+Result: Skip Exhausted.
+",10/03/2022,Mahesh Patil,Cascade Funding Mortgage Trust - HB8,HECM Standard
+224891,RPC Phone,Skip Tracing,"Numbers Dialed
+Bor1--(575) 398-6265--Soledad Mendoza--no answer
+Bor1--(806) 778-8895--GVML
+Alt1--(623) 826-4866--Carlos Mendoza--RPC
+8067788995--GVML
+
+Result:
+RPC with the auth party gave tape disclosure verified cell# and took the # for the bwr as well confirmed mailing address and wanted to know info about the ins so trns the call to HRD",10/03/2022,Austin Chettiar,Cascade Funding Mortgage Trust - HB7,HECM Standard
+225238,Skip Exhausted,Skip Tracing,"Numbers Dialed:
+Contacts : WALTER A ORLINSKY : bwr : **
+(209) 544-8424 : dc...removed the # (notes/doc)
+Alt contact : ANTHONY ANGERA
+(610) 222-6188 : Robo call ...bn #....removed the # (notes)
+IVR : No info
+Documents: 610-222-4188 : gvml
+CBC Innovis : 209-568-6421 (CELL) : black : dc
+No good Ph #  found in contact, IVR, notes, documents and CBC Innovis.
+Result: Skip Exhausted
+",10/03/2022,Megha Sawant,BAML,HECM Standard
+225340,Non-Voice Phone,Skip Tracing,"Dialled Numbers:
+Contact: 
+Alt- Donna Kamealii- (808) 623-6718- GVMl.
+IVR: Same As Above.
+Notes:
+Exe- Barry Rhodes- 6122062105- GVMl.
+Documents: 
+Borr- Mark A Rhodes- 775-972-9025- Busy.
+775-399-2914- Diss.
+CBC:
+Borr- Mark A Rhodes- 775-399-2914- Diss.
+Result: Non Voice Phone.
+
+Skip Hygiene done- Active number present under Contacts hence closed the SKPTRC alert.",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM IDL - Refinance
+226261,Skip Exhausted,Skip Tracing,"226261
+
+
+Dialled Numbers:
+Contact:
+Borr- Miguel B. Hernandez- (909) 804-0147- The person who answerd the call said doesnot need mortgage and Hungup.
+Co-Borr- Alicia Hernandez- (909) 804-2068- Bad no- Removed.
+
+IVR: NA.
+Notes: Same As Above.
+
+Documents:
+Borr- Miguel B. Hernandez- 909-473-0230- NIS.
+CBC: 
+Co-Borr- Alicia Hernandez- 760-256-0848- NIS.
+Alt- Juan Hernandez- 909-276-1538- GVML.
+909-391-3924- Bad No.
+
+Result: Skip Exhausted.",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM Standard
+226379,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts : Ellen Maude Geer : bwr :
+(951) 849-3464 : gvml ...
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result: Non-Voice Phone",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM Standard
+226613,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(760) 413-4460--Linda J.Schroeder-Miller--person who answered hung up
+Alt1--(760) 831-0602--Dionne Camacho--GVML
+
+IVR data
+no info found
+
+Notes:
+no # found
+
+Documents:
+no new # found
+
+CBC:
+760-366-7447--Disc#
+760-329-5800--Dionne Camacho--disc#
+
+Result:
+non voice locate fr the bwr and alt as reached GVML and active #",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM IDL
+226698,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:9092801581-Gvcml-Validated
+Alt Cont:Kenneth Ottenbacker:9516875451-Gvcml-validated
+Result:PHN 
+
+Skip Hygiene done- Active number present under Bor and Alt cont hence closed the SKPTC alert",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM IDL
+227328,RPC Phone,Skip Tracing,"Dialled Numbers:
+
+Contact:
+Borr- Liselotte Isle Odemer Helle- (909) 337-8635- GVMl.
+(909) 744-7529- GVML.
+Alt- Gedra Mende- (818) 763-4620.
+Verified the Home no.
+Verified the Mailing Address and updated the Email 
+gmende1000@aol.com
+
+Asked if therer is other contact no for the borr.
+She said she is her sister and has only two nos.
+
+Result: RPC Phone.
+",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM IDL
+227410,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:emad home 6029976322 got GVCML and cbc found cell 480-220-8571  for PVML
+Alt Cont:Kim home 9034608689 disconencted 
+Notes :tried calling number from cbc for kim but no answer even checked 1003 form has same number
+Result:Non Voice Locate",10/03/2022,Allwyn Dsouza,PHH Mortgage Services,HECM IDL
+227674,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(916) 782-9283--George Newman--Bad# Removed#
+Alt1--(530) 902-3116--James Newman--PVML
+
+Result:
+non voice locate for the alt contact trustee as reahced PVML and same # in CBC as well activ #",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+227678,RPC Phone Email,Skip Tracing,"Numbers Dialed: 
+Brwr:  Na
+Alternate Contact : Elizabeth Mowery Auth - (303) 809-4070 spoke to her gave tape disclosure she confirmed her contact information updated email address - moweryliz1973@gmail.com. She said her brother is legally authorized and gave his number john mowery - 7209196018 and said brwr does not have direct phone#. Gave Hrd call back number no further questions.
+John Garrett Mowery - (720) 919-6018 Spoke to POA gave tape disclosure he confirmed his cell phone# updated TCPA consent obtained no other number given to update. Updated email address - johngmowery@gmail.com confirmed mailing address correct on file. Transferred to Customer service.
+Result: RPC Phone Email",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM Standard
+228234,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts : James D. O'Hare : bwr : no info
+Alt contact : Meghan O'Hare : removed
+Alt contact : Suanne McGovern : no info
+IVR : 2095886744 : pvml for bwr updated the #
+Result: Non-Voice Phone",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM Standard
+228659,Skip Exhausted,Skip Tracing,"Dialled Numbers:
+
+Contact:
+Borr- Carolyn M Johnson- (520) 325-8881- 
+Merry answered the call and said will ask some one to call us.
+Provided the phone no for HRD 866-799-7724 and she Hungup.
+
+IVR: NA.
+Notes: NA.
+Documents: NA.
+
+CBC:
+Borr- Carolyn M Johnson- 520-749-9654- Bad No.
+
+Result: Skip Exhausted.
+",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM IDL
+228663,Non-Voice Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: JACQUELINE K CALKINS - 5203909740  PVCML validated on CBC (good contact # present)
+Result: Non Voice Phone
+Skip Hygiene done- Active number present under  JACQUELINE K CALKINS hence closed the SKPTRC alert",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM Standard
+229188,Non-Voice Phone,Skip Tracing,"Dialled Numbers:
+Contact:
+Borr- MILA T. BERNETHY- (760) 840-0092- GVMl.
+IVR: NA.
+Notes: NA.
+Documents: Same As Above.
+CBC:
+Alt- Flo Crowe- 760-847-1210- GVML.
+Result: Non Voice phone.
+
+Skip Hygiene done- Active number present under Contacts hence closed the SKPTRC alert.",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM Standard
+229503,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts : Patricia Concialdi : bwr :
+(951) 244-9880 : pvml for bwr2 
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result: Non-Voice Phone
+",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM Standard
+230541,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+B1/B2:3239282672-spoke to cobrwr, gv td, Home#; 3444 Gardenside Lane, Los Angeles, CA 90039 is verified mailing address, email denied-updated
+Result:RPC PHN 
+",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+230651,Skip Exhausted,Skip Tracing,"Numbers Dialed: 
+Brwr: Peggy Gonsalves - 5104321381 Invalid GVCML removed
+Alternate Contact : Na
+Notes: SAMANTHA SALES Attorney - 6266466958 Not dialed
+Documents: Na
+CBC: Mark Gonsalves - 5304036499 NIS
+Result: Skip exhausted
+No good contact # found in notes, documents and CBC Innovis.",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM Standard
+231036,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:william cell 8016334140 PVML with name as wills & Gwen home 8015661445 no answer
+Alt Cont:Son james cell 4356910825 active
+Notes :soke with james while dioing verification he hung up thinking i am selling something
+Result:RPC/PHONE",10/03/2022,Allwyn Dsouza,PHH Mortgage Services,HECM Standard
+231060,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:paul home 5205081365 PVML
+Alt Cont:  
+Notes :got personal voice message in paul name 
+Result:Non Voice Locate",10/03/2022,Allwyn Dsouza,PHH Mortgage Services,HECM Standard
+231117,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts : Juvencio Gaytan : bwr : 
+(714) 973-1568 : gvml
+(714) 837-1365 : No dial tone..removed the #
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result: Non-Voice Phone
+",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM Standard
+231891,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(979) 218-7161--Charles Davis JR--GVML
+
+IVR data:
+no info found
+
+Notes:
+9796766098--Charles Davis Jr--GVML
+559-580-1548--DISC #
+
+Documents:
+559-580-1548--Richard Gardiner--NIS
+
+CBC:
+559-658-5498--Charles Davis--Bad#
+971-998-4269--DISC#
+
+Result:
+non voice locate for the alt contact as POA and active# GVML",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+232569,RPC Phone Address Email,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:3036959527-Disc#-deleted
+3038981892-spoke to brwr, gv td, cell#, TCPA consent Yes, no alternate number
+old mailing address:13902 E MARINA DRIVE AURORA, CO 80014 changed to 13902 E MARINA DRIVE #305, AURORA, CO 80014 and email billhow365@icloud.com  changed to billhow865@gmail.com-updated
+Result:RPC PHN ADD EML",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+232800,RPC Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(208) 437-0456--Alvanna Flath--RPC
+
+Result:
+RPC with the bwr gave tape disclosure verified home # and no cell# confirmed mailing address and email address as well and gave the # for the CS",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+233133,RPC Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: Lavasta Young - 3035505794 spoke to her she confirmed her name however she hung up stating I don't recognize you hence was unable to continue with the call.
+Result: Rpc Phone ",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM Standard
+233494,RPC Phone,Skip Tracing,"Numbers Dialed: 
+Brwr:  Na
+Alternate Contact : Charles R. Carmen Jr. Grandchild/Authorized/POA - 6192776057 spoke to him gave tape disclosure he verified his contact information TCPA consent obtained no alternate number given confirmed email and mailing address. He said he is POA for brwr and brwr is in nursing home so he does not have phone#.  Transferred him to HRD.
+Result: RPC Phone",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM Standard
+233548,Non-Voice Phone,Skip Tracing,"Numbers Dialed: 
+Brwr:  Na
+Alternate Contact : Janice L. Angelastro - 9162963588 GVCML, 9164745032 PVCML (good active # present)
+Notes:  Na
+Documents: AnneMarie Fielding - 2092963524 Disc# 
+CBC:  No new # found
+Result: Non Voice Phone
+No good contact # found in notes, documents and CBC Innovis.
+Skip Hygiene done- Active number present under Janice L. Angelastro hence closed the SKPTRC alert",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM Standard
+233852,Non-Voice Phone,Skip Tracing,"Dialled Numbers:
+Contact: 
+Borr- Mavis J. Zeagler- (512) 295-4925- No Answer.
+(512) 312-0825- Bad No.
+Alt- Debbie Thames- (512) 422-8875- GVMl.
+IVR: NA.
+Notes: NA.
+Documents: Same As Above.
+CBC: Same As Above.
+Result: Non Voice Phone.
+
+Skip Hygiene done- Active number present under Contacts hence closed the SKPTRC alert.
+
+",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM Standard
+234501,RPC Phone,Skip Tracing,"Numbers Dialed: 
+Brwr:  na
+Alternate Contact : Lynda Piper ENBS - (480) 519-3265 spoke to her gave tape disclosure she verified her contact information correct on file was unable to understand TCPA consent question hence denied she confirmed she is legally auth for brwr gave HRD call back number no further questions.
+Result: RPC Phone",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM Standard
+234564,Skip Exhausted,Skip Tracing,"Numbers Dialed:
+Contacts : Jacqueline M. Waters-Shields : bwr : 
+(714) 642-1709 :dc...removed the # (ivr/notes)
+Alt contact : Millicent Alfidi
+(714) 362-1583 : did not call as per the contact details contact removed. (doc)
+Notes: 3173433330 : dc...removed the #
+7146251351 : LV bad #...
+Documents: 714-369-6014 : no dial tone (doc)
+No good Ph #  found in contact, IVR, notes, documents and CBC Innovis.
+Result: Skip Exhausted",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM Standard
+235080,RPC Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(714) 544-1607--Henry Swindler--RPC
+
+Result:
+RPC with the bwr gave tape disclosure verified cell# and home # and took TCPA consent confirmed mailing address and email address also and wanted info about the a/c so trns the call to CS as per the status ",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+235448,Non-Voice Phone,Skip Tracing,"Dialled Numbers:
+Contact: 
+Borr- Michael G. Warner- (303) 720-5611- GVMl.
+Alt- Debbie Mason- (303) 594-1475- PVML.
+Result: Non Voice Phone.
+
+Skip Hygiene done- Active number present under Contacts hence closed the SKPTRC alert.
+",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM Standard
+236275,RPC Phone,Skip Tracing,"Dialled Numbers:
+
+Contact: 
+Borr- Mary Joan Acosta- (951) 522-4669-  GVMl.
+Alt- Callie Andrade- (951) 276-7171- 
+Verified the Phone no.
+She doesnot wanst to ad any other phone no.
+Asked if the borr has any other phone no.
+She said No.
+She wansted to know the reason for the call as she takes care of the account
+and wanted to know if therer is any payment due.
+Advised to speak with the CS dept.
+She hungup.
+
+Result: RPC Phone.
+",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM Standard
+236334,Skip Exhausted,Skip Tracing,"Dialled Numbers:
+Contact: NA.
+IVR: NA.
+Notes: 
+Non Auth- James Fulton  - 786-294-5157- Mail Box Full.
+(786) 916-3771- Bad No.
+Documents: NA.
+CBC: NA.
+Result: Skip Exhausted.",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM Standard
+236510,RPC Phone,Skip Tracing,"Dialled Numbers:
+Contact: 
+Alt- Georgina Burris- (530) 913-2037- GVMl.
+Auth- James L Galloway Jr- (510) 557-7534- 
+Verified the Cell No.
+He doesnot wants to add any new phone no.
+Verified the Mailing address and Email Address.
+Asked if there is any legally auth person.
+He said he is.
+Asked to send the docs to us as he said his attorny has it.
+Provided the email add for CS dept customerassist@phhreverse.com
+
+TCPA was already present for Auth.
+WHne asked for TCPA he dennied.
+
+Result: RPC Phone.",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM Standard
+236634,Non-Voice Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: Robert G. Gunderson - 7143211880 Invalid # removed
+Alternate contact: Susan Teague - (949) 285-9030 GVCML (good active # present)
+Notes: na
+Documents: 7144200095
+CBC: Robert G. Gunderson - 9496450948 Disc#
+Result:  Non voice phone
+Skip Hygiene done- Active number present under Susan Teague hence closed the  SKPTRC alert",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM Standard
+236946,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Bor2--(321) 288-0855--Michael Montgomery--PVML
+
+Result:
+non voice locate for the POA as reached personal voice mail",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+237083,RPC Phone Address Email,Skip Tracing,"Numbers Dialed:
+no # in contact
+
+IVR data:
+no info found
+
+Notes:
+501-622-9102--Kenneth Anderson--RPC
+
+Result:
+RPC with the bwr gave tape disclosure verified cell# took TCPA consent chnaged the mailing address and updated the email address as well no hme # updated the cell# in RQ
+
+Old Address:
+po box 6400,HOT SPRINGS, AR 71902
+
+New Address:
+836 SHADY HEIGHTS RD, HOT SPRINGS, AR 71901",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+237275,RPC Phone,Skip Tracing,"Dialled Numbers:
+
+Contact:
+Borr- Elizabeth Gonzalez- (305) 812-2205- 
+Verified the Cell No.
+She doesnot wanst to updated any other phone no with us.
+Took TCPA concent.
+Verified the Mailing Address And Email Add.
+She said that just spoke with us 2 hrs ago and wanst to know the reason for this call.
+Infd this call is to verify contact info for everything else can speak with CS dept.
+
+Result: RPC Phone.
+
+",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM Standard
+237916,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(801) 694-0521--not receving calls at this time
+Alt1--(435) 901-8049--Tami Searing--GVML
+
+IVR data:
+8017066245--Wrong#
+
+notes:
+801-561-0385--Call dropped
+
+Documents:
+no new # found
+
+CBC:
+no new # found
+
+Result;
+non voice locate fr the alt contact as reached GVML and active #",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+238341,Non-Voice Phone,Skip Tracing,"Dialled Numbers:
+Contact:
+Borr- Wilma Jackson- (504) 554-1733- GVMl.
+IVR: NA.
+Notes: Same As Above.
+Documents: Same As Above.
+CBC:
+Borr- Wilma Jackson- 281-653-2880- Bad No.
+346-300-1552- VM for Tiffny.
+832-604-7533- GVMl.
+Result: Non Voice Phone.
+
+Skip Hygiene done- Active number present under Contacts hence closed the SKPTRC alert.",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM Standard
+238935,Skip Exhausted,Skip Tracing,"Numbers Dialed:
+Contacts : bwr : Gene Shugarts : no info **
+Alt contact : John Shugarts : no info 
+IVR :  no info
+Notes: 5307881824 : dc
+8132443351 : gvml (black)
+3138385936 : dc
+No good Ph #  found in contact, IVR, notes, documents and CBC Innovis.
+Result: Skip Exhausted",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM Standard
+239917,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:4124962462-spoke to brwr, gv td, cell#, TCPA Consent Yes; email:karkgb18@gmail.com verified and PO BOX 670 SAINT DAVID AZ 85630 is verified mailing address-updated
+Result:RPC PHN ",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+239925,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:9286340938-Gvcml/ 9283002317-Gvcml-Validated
+Result:PHN
+
+Skip Hygiene done- Active number present under Bor hence closed the SKPTC alert",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+239988,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Alt Cont:Mela Pruna-No info
+ATP:Suranie Pruna:4073304300-spoke to atp Suranie Pruna, gv td, she sd she is executor adv to send docs to fax# 561-682-8039; this is work Cell#, 4072573890 is personal cell#, email:mela@vicfidelitytitle.com verified and 244 Bluestone Place CASSELBERRY, FL 32707 is verified mailing address-updated
+Result:RPC PHN",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+240068,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:helen home 5165783248 got GVCML 
+Alt Cont: albine home 7278576159 no answer and dailed  number from cbc 801-808-2238 got GVCML but name verified on CBC and marian cell is same as bwr home alraedy dailed 
+Notes :got GVCML for contacts made
+Result:Non Voice Locate
+",10/03/2022,Allwyn Dsouza,PHH Mortgage Services,HECM Standard
+240390,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(314) 721-5288--Alfred Erickson III--GVML
+Bor1--(314) 517-3112--GVML
+Bor2--(314) 351-5808--David Bear--No answer
+ALt1--(417) 629-8905--Donald Monroe--no answer
+
+IVR data;
+no new # 
+
+Notes:
+no new # found
+
+Documents:
+no # found
+
+CBC:
+no new # found
+
+Result:
+non voice locate for the bwr and alt contact as reached GVMl and the active #
+",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+240907,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts : bwr : Mary Ann Hopp :
+(515) 779-2047 : gvml ..reversed the # as cell hence deleted the duplicate home #.
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result: Non-Voice Phone",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM Standard
+240936,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Alt Cont:John Cahill-Gvcml-Validated
+Result:PHN
+
+Skip Hygiene done- Active number present under Alt Cont hence closed the SKPTC alert
+",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+241266,Non-Voice Phone,Skip Tracing,"Dialled Numbers:
+Contact: 
+Borr- William J. Frisby- (801) 910-4957- GVMl.
+(435) 757-5055- GVMl.
+Alt- Jeffrey Frisby- (801) 910-7992- GVMl.
+IVR: NA.
+Notes: NA.
+Documents: NA.
+CBC: Same As Above.
+Result: Non Voice Phone.
+
+Skip Hygiene done- Active number present under Contacts hence closed the SKPTRC alert.",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM Standard
+241995,Non-Voice Phone,Skip Tracing,"Dialled Numbers:
+Contact: 
+Borr- Amos Penny- (352) 495-2331- PVMl.
+Result: Non Voice Phone.
+
+Skip Hygiene done- Active number present under Contacts hence closed the SKPTRC alert.
+
+
+",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM Standard
+242036,Non-Voice Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: Lora B. Ford - 8012956714 GVCML (good active # present)
+Alternate Contact : Nanette Reid - 8015543572 GVCML (good active # present)
+Notes:  Na
+Documents:  Na
+CBC:  Na 
+Result: Non voice phone
+Skip Hygiene done- Active number present under  Lora B. Ford  and Nanette Reid hence closed the SKPTRC alert",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM Standard
+242342,Non-Voice Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: Christine Brown - (831) 462-6916 GVCML
+Alternate Contact : Clark Stamper - (949) 244-3632 GVCML
+Notes:  na
+Documents:  na
+CBC:  na
+Result: non voice phone
+No good contact # found in notes, documents and CBC Innovis.
+Skip Hygiene done- Active number present under Christine Brown hence closed the skptrc alert",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM Standard
+242471,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Bor2--(208) 366-3385--Gary Cummings--Personal voice mail
+
+Result:
+non voice locate for the bwr as reached PVML for family as both bwr name present in VM 
+",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+242664,Skip Exhausted,Skip Tracing,"Numbers Dialed:
+Contacts:
+B1/B2:2819996744-disc#
+Alt Cont:Joe Butler:7132527841-NIS
+IVR:7654140792-Pvcml for Rick
+Notes:No Info
+Documents:NO Info
+CBC:
+Alt Cont:Joe Butler:8324839377(CELL)-tp sd alt cont passed away
+Result:SKIP Exhausted",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+242699,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(408) 438-8726--Kathleen Youel--GVML
+
+IVR Data:
+same # whc is dialed
+
+Notes:
+no new # found
+
+Documents:
+no # found
+
+CBC:
+669-255-5864--no voice mail set up
+
+Result:
+non voice locate for the bwr as reahced GVML and active #
+",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+242705,RPC Phone Email,Skip Tracing,"Numbers Dialed:
+Contacts : Susan M Hughes : bwr :
+(210) 646-0022 : spoke with bwr said good home #
+210-243-6540 : bwr provided her cell #...tcpa consent yes updated the same.
+No change to the mailing address
+bwr provided her email address as follows : 
+susanhughes1224@gmail.com
+Result: RPC Phone Email",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM Standard
+243084,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+bor1--(626) 797-2388--Herman Williams--GVML
+Bor1--(626) 200-6742--person who answered the call hungup
+Alt1--(626) 251-7908--Antony Phillips--GVML
+Alt2--(501) 961-2238--Barbara Jackson--GVML
+
+IVR data:
+no info found
+
+Notes:
+626-639-9998--Herman Williams--person who answerd the call hung up
+
+Documents:
+no new # found
+
+CBC:
+626-421-2991--Herman Williams--GVML
+626-797-9417--Herman Williams--engage tone
+626-345-1359--engage tone
+
+Result:
+non voice locate for the alt contact and bwr as reached GVML and active#",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+243503,RPC Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(520) 790-0134--Cynthia Hummel--RPC
+
+Result:
+RPC with the bwr gave tape disclosure verified home # and cx hung up the call could not verify other info ",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+243938,Non-Voice Phone,Skip Tracing,"Dialled Numbers:
+Contact:
+Borr- Theresa T. Jones- (817) 946-3542- Hungup.
+Auth- Angela Jones- (608) 575-2070- PVML.
+Result: Non Voice Phone.
+
+Skip Hygiene done- Active number present under Contacts hence closed the SKPTRC alert.
+
+",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM Standard
+244056,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:philip cell 2093457685 ringing later mail box full info received
+Alt Cont:Edward home 3152548753 active
+Notes : confirmed edward on phone denied speaking and hung up
+Result :RPC/PHONE
+",10/03/2022,Allwyn Dsouza,PHH Mortgage Services,HECM Standard
+244499,Non-Voice Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: Joni Papay - (530) 394-7567 GVCML (good active # present)
+8054441766 Disc# removed
+Alternate Contact : Elaine Wrestler - 8054823794 Recipient hung up
+Notes: na
+Documents:  Na
+CBC: Joni Papay - 8059873237 Disc#
+Result: Non Voice Phone
+No good contact # found in notes, documents and CBC Innovis.
+Skip Hygiene done- Active number present under Joni Papay  hence closed the SKPTRC alert",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM Standard
+244623,RPC Phone Address Email,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:5864056708-spoke to brwr, gv td, cell#, TCPA consent Denied, 
+Email:viclaport@gmail.com changed to viclaporte@gmail.com
+Old mailing address:15400 19 MILE RD STE 115 LINTON TOWNSHIP MI 48038-6311 changed to 23337 RECREATION ST, SAINT CLAIR SHORES, MI 48082-Updated
+Result:RPC PHN ADD EML",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+244900,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts : Karon Hills : bwr : 
+(541) 863-2397 : gvml ...good active # present
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result : Non-Voice Phone
+",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM Standard
+245637,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:theresa home 3058209975 & cell 7865129759 bot numbers dailed got PVML in bwr name
+Alt Cont:  
+Notes :got personal voice message
+Result:Non Voice locate",10/03/2022,Allwyn Dsouza,PHH Mortgage Services,HECM Standard
+246234,Non-Voice Phone,Skip Tracing,"Dialled Numbers:
+Contact:  
+Borr- Andrea Clark- (586) 651-5101- GVML.
+IVR: Same As Above.
+Notes: Same As Above.
+Documents: Same As Above.
+CBC:
+Borr- Andrea Clark- 586-752-5380- Diss.
+Result: Non Voice Phone.
+
+Skip Hygiene done- Active number present under Contacts hence closed the SKPTRC alert.",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM Standard
+246403,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+ATP:Clara Dobbins:7084501884-Gvcml-validated
+7087906356-disc#
+Alt Cont:Jeffery Dillard:3125049587-Gvcml-Validated
+Alt Cont:Mary L Purdie:7087473652-spoke to atp Mary L Purdie, she is not the executor and does not know anything about it and hung up -deleted 
+Result:RPC PHN validated for alt contacts",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+246506,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:5309991232-Disc#-delted
+Alt Cont:Donna Jones:5038695293-Gvcml-Validated
+Result:PHN 
+
+Skip Hygiene done- Active number present under Alt cont  hence closed the SKPTRC alert
+
+",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+246557,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+B1:3039780538-spoke to cobrwr, gv td, home#, 
+3035206499 is cell fr brwr, email:suziemac50@comcast.net verified and 71 S AMES ST, LAKEWOOD, CO 80226 is verified mailing address-updated
+Result:RPC PHN
+",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+246906,RPC Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: FRANK QUINTERO ESPINOZA - 4243645554 spoke with him he confirmed his name and hung up hence was unable to continue with the call.
+Result:  RPC Phone.",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM Standard
+247515,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:michael no contact
+Alt Cont:attorney abraham cell 2133699632 active 
+Notes :spoke with abraham confirmed address email and cell
+Result :RPC/PHONE",10/03/2022,Allwyn Dsouza,PHH Mortgage Services,HECM Standard
+247903,RPC Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(334) 360-5815--Elenor Warren--no VM set up
+Alt1--(850) 585-4105--Sharon Collinsworth--GVML
+Alt2--(534) 320-0186--Steve Warren--no answer
+
+IVR data:
+no info found
+
+Notes:
+334-315-5815--Eleanor Warren--RPC
+
+Result:
+RPC with the bwr gave tape disclosure verified cell# took tcpa consent confirmed mailing address and no email and no other # and deleted the wrong # from RQ
+",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+248596,RPC Phone Address,Skip Tracing,"Numbers Dialed:
+Bor1--(559) 789-7879--George Wright--RPC
+
+Result:
+RPC with the bwr gave tape disclosure verified cell# took tcpa consent updated the new mailing address and verified email address also ",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+248765,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:larry cell 2087557421 GVCML
+Alt Cont: POA angela 2062916155 no answer & debbi cell 2086603824 ringing
+Notes :GVCML took so closed
+Result :Non Voice Locate
+",10/03/2022,Allwyn Dsouza,PHH Mortgage Services,HECM Standard
+249235,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts : Susan Barr : bwr :
+(520) 210-2244 : gvml
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result: Non-Voice Phone",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM Standard
+249597,RPC Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(682) 208-3690--Janis Robinson Fraser--RPC
+
+Result:
+RPC with the bwr gave tape disclosure verified cell# took tcpa consent confirmed mailing address and also email address as well",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+250007,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:milfrord home 9703537060 no answer & cell 9703962454 ringing & maddalena got cell 9703537060 from cbc 
+Alt Cont:  
+Notes :Skip Hygiene done- Active number present under cell 9703962454  hence closed the SKPTRC alert
+Result :Non Voice Locate",10/03/2022,Allwyn Dsouza,PHH Mortgage Services,HECM IDL
+250226,Non-Voice Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: ARNETTA HARRIS - 5625603999 GVCML good active # present
+Alternate Contact : Daron Harris - 3189005089 GVCML, 3187010443 GVCML
+Notes: na
+Documents: ARNETTA HARRIS - 5622772597 Invalid GVCML
+CBC:  na
+Result:  non voice phone
+Skip Hygiene done- Active number present under ARNETTA HARRIS  and Daron Harris hence closed the SKPTRC alert",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM IDL
+250398,Non-Voice Phone,Skip Tracing,"Alt contact : 
+Numbers Dialed: bwr : Maria E. Zoffinger :
+Contacts : (305) 725-6228 : pvml fpr Maria Zoffinger...reversed the # as cell hence deleted the duplicate home #.
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result: Non-Voice Phone
+
+",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM Standard
+251333,RPC Phone Address,Skip Tracing,"Numbers Dialed:
+Contacts : Patricia A. Ryan : bwr : 
+(360) 907-8709 : no ans ...dleted #
+(458) 802-3944 : spoke with bwr said good cell # ...tcpa consent yes updated the #....she provided her new mailing address as follows:
+451 O'Connell St # 209 North Bend OR 97459 
+Old mailing address :812 NEWMARK ST, NORTH BEND, OR 97459
+she did not give any email address. 
+Result : RPC Phone Address",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM Standard
+251413,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+B1:No info
+B2:7603653753-Gvcml
+7608317749-Pvcml for Linda-deleted
+Alt Cont:LINDESEY MILLER:7142622822-Ringing disc#
+IVR:No info
+Notes:NO info
+Documents:
+7608217749-Gcml
+CBC:
+B1:7608217749(Cell)Blue-gvcml
+7603653753-Green-gvcml-One Document Viewer number from the documents received within the last year and a green number from CBC Innovis-updated
+Result:PHN",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+251581,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:Denise home 6097030592 GVCML 
+Alt Cont:Jpayton cell 6097032423 GVCML & patrick home 6097030593 GVCML
+Notes :checked 1003 form same number found No RPC found
+Result:Non Voice Locate",10/03/2022,Allwyn Dsouza,PHH Mortgage Services,HECM Standard
+252232,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+B1/B2:7757724133-Gvml-validated
+Alt Cont:Susan Hancock:7758276915-Gvcml-validated
+Result:PHN 
+
+Skip Hygiene done- Active number present under B1/B2/Alt cont  hence closed the SKPTRC alert
+",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+252470,RPC Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: Na
+Alternate Contact : Ana Maria Mendive- HEIR - 9562066933 spoke to her gave tape disclosure she confirmed her contact information correct on file TCPA consent obtained she said she is legally authorized and have already sent the docs. Transferred to HRD.
+Result: RPC Phone",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM IDL
+252621,RPC Phone,Skip Tracing,"
+Numbers Dialed:
+Bor1--(580) 922-5106--Mack Miller--Person who answered the cal hung up
+Alt1--(580) 922-1987--Brian Bensch--RPC
+
+Res ult:
+RPC with the alt contact gave tape disclosure verfied cell# mailing address is incorrect and said will nt gve the new address and does not have the # for the bwr sadi he is in the hospital",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM Standard
+252643,Non-Voice Phone,Skip Tracing,"Dialled Numbers:
+Contact:
+Alt- Herbie Garcia- (786) 236-2426- GVMl.
+Auth- Robert Garcia- (786) 267-5472- GVMl.
+IVR: NA.
+Notes: Same As Above.
+Documents: Same As Above.
+CBC: 
+Borr- Zeida Fuentes- 786-554-2717- NIS.
+Result: Non Voice phone.
+
+Skip Hygiene done- Active number present under Contacts hence closed the SKPTRC alert.",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM Standard
+252877,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts : Vernon Paul Crowl : bwr :
+(415) 420-1838 : gvml.... reversed the # as cell... hence deleted the duplicate home #.
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result: Non-Voice Phone",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM Standard
+252945,Non-Voice Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: Lovie Loretta Flowers - 5034108328 PVCML validated number on CBC (good active number present) NVLS
+Result: Non Voice Phone 
+Skip Hygiene done- Active number present under Lovie Loretta Flowers  hence closed the SKPTRC  alert",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM Standard
+253132,Skip Exhausted,Skip Tracing,"Numbers Dialed:
+Contacts : Cristina De la Rosa Garcia : bwr :**
+(305) 642-4916 : no ans (notes/doc/green)
+Alt contact : Teresa Valenza:
+(305) 854-9607 : dc after two rings ...bn hence removed the # (notes)
+IVR : no info
+Documents: Alt contact : Teresa Valenza 
+786-315-3831 : gvml
+No good contact # found in contact, notes, documents and CBC Innovis.
+Result: Skip Exhausted",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM Standard
+253637,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+B1/B2/Alt Cont:Maurice Lee:7737239010-Gvcml
+Result:PHN
+
+Skip Hygiene done- Active number present under B1/B2/Alt Cont hence closed the SKPTRC alert",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+254490,RPC Phone,Skip Tracing,"Numbers Dialed:
+Bor1-(541) 764-2416--Theola Jackson--RPC
+
+Result:
+RPC with the bwr gave tape disclosure confirmed name and she hung up the call and could not verify any other info ",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM IDL
+255043,RPC Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(352) 203-4588--Ana Oviedo--RPC
+
+Result:
+RPC with the bwr gave tape disclosure verified home # no cell# confirmed mailing address and also confirmed email address as well ",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM IDL
+255296,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts : Miguel Lucero : bwr : 
+(310) 701-9587 : spoke with tp  (bwr's son) he said that bwr is on vacation ... left call back #.
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result: Non-Voice Phone
+",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM IDL
+255321,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts : DAGOBERTO MOLINA : bwr:
+(520) 705-2156 : spoke with bwr.... confirmed the # as home #
+(520) 705-6039 : bwr confirmed the # as good cell #...with the tcpa consent as Yes updated the same.no change to the mailing and email address.
+Result: RPC Phone
+",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM IDL
+256242,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:2092002019-Gvcml
+2096439112-spoke to atp David Aldrete, gv td, cell# and email:california51980@gmail.com verified; 211 Forest Ave LODI CA 95241 is verified mailing address-updated
+Result:RPC PHN",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM IDL
+256611,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:susan cell 5306653550 GVCML
+Alt Cont:darlene home 5306620477 spoe with husband
+Notes :he said not interest and hung up 
+Result :Non Voice Locate",10/03/2022,Allwyn Dsouza,PHH Mortgage Services,HECM IDL
+256772,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:paula home 9287684168 disconnected 
+Alt Cont:tracy home 7609488384 bad number so disconnected and cell 9095181963 got GVCML  
+Notes :called 909-518-9009 from cbc got tracy husband later spoke with tracy said last night bwr passed away and changed mailing address gave email and phone to send us legal documents
+Result :RPC/PHONE",10/03/2022,Allwyn Dsouza,PHH Mortgage Services,HECM Standard
+257366,RPC Phone Email,Skip Tracing,"Numbers Dialed:
+Contacts : HEATH C STRACHAN : bwr : 
+(941) 505-1536 : gvml
+(941) 457-5957 : spoke with B1 : said good cell #...tcpa consent yes...updated the same ..No change to the mailing and email address. 
+bwr1 : confirmed the email address for bwr2 as follows : 
+jarhinds@gmail.com 
+old email address :jarhimds@gmail.com
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result: RPC Phone Email",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM IDL
+257566,RPC Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(951) 315-8197--Anne Nicholas--RPC
+
+Result:
+RPC with the bwr gave tape disclosure verfied name and phone # and could not verify any other info as bwr hung up the call
+",10/03/2022,Austin Chettiar,PHH Mortgage Services,HECM IDL
+258262,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor: nancy cell 7076565600
+Alt Cont:  
+Notes spoke with nancy verfiied mailing address email and cell denied home number
+Result :RPC/PHONE",10/03/2022,Allwyn Dsouza,PHH Mortgage Services,HECM IDL
+258362,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts : Leland Thomas Freid : bwr : **
+(714) 305-7953 : # not reachable ... bn # ...removed the #
+Alt contact : David Regal :
+(562) 394-7738 : spoke with  David Regal...he said this is his cell # ...hence change the ph type from home to cell #... while confirming the mailing address...he said that we can keep sendig the mails to the address we are sending... he did not give his email address. He also informed there is Trustee assigned to the property and said that this information is share with PHH...when requested to share the info with the cc dept he refused to do so.
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result: RPC Phone
+",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM IDL
+258753,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts : John Edward Evans : bwr : 
+(928) 855-7182 : LV bad #...removed the #
+(928) 716-7182 : pvml ... 
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result: Non-Voice Phone
+",10/03/2022,Megha Sawant,PHH Mortgage Services,HECM Standard
+259128,Skip Exhausted,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:victor cell 7275574051 no answer
+Alt Cont:  
+Notes :checked closing docs found caller name anthony biut got GVCML 
+Result:SKPEXH",10/03/2022,Allwyn Dsouza,FNMA,HECM Standard
+259218,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:helen home 5617472996 & cell 5613896137 GVCML for both number & Raymond no contact found
+Alt Cont:POA Katherine cell 9546048169 actve
+Notes :spoke witg POA confirm address email and cell then transfer to custoner care
+Result:RPC/PHONE",10/03/2022,Allwyn Dsouza,FNMA,HECM Standard
+259221,Skip Exhausted,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:No info
+Alt Cont:Ivan Castaneda:No info
+IVR:No info
+Notes:
+3052007653-Gvcml
+7864239934-No vcml set up
+3055997306-NIS
+3057727811-Gvcml
+Documents:
+Bor:7862085970-cannot accept calls at this time
+CBC:
+Bor:3056635349-Disc# 3056688404-Disc#
+Result:SKIP Exhausted
+",10/03/2022,Deepika Mathur,FNMA,HECM Standard
+259553,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:5026620397-No response-deleted
+Alt Cont:Charlene Terrell:5027329029-NA-deleted
+5026430074-spoke to Charlene Terrell, gv td she sd she is the executor adv to send docs said already sent and hung up-validated
+Result:RPC PHN 
+",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+259632,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+B1:3144025680-spoke to brwr's son Mike sd brwr is unavailable
+3148040256-text only phone
+B2:3144353420-disc#-deleted
+Alt Cont:Michael Gieson-No info
+IVR:3144025680(already dialed)
+Notes:
+3148394000-agent#-not dialed
+3149977770-Dr's office
+7042593866-agent#-not dialed
+Documents:
+Noinfo
+Result:PHN
+Skip Hygiene done- Active number present under Bor hence closed the SKPTC alert",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM Standard
+259654,RPC Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: Willis C. McDonald - 3472975999 Invalid GVCML removed
+Alternate Contact :  Na
+Notes:  Na
+Documents: Sylric McDonald - 6814104521 NIS
+Willis C. McDonald - 6014102339 NIS
+Marian Reese - 6016875246 GVCML
+CBC: Sylvia MCDONALD - 601-507-6626 spoke to her gave tape disclosure she verified her contact information updated cell phone number she said she is not legally authorized but brwr was her husband she said we should call her lawyer to discuss details 601-735-3440. Gave HRD call back number no further questions. 
+Result: RPC Phone",10/03/2022,Asha Shukla,PHH Mortgage Services,HECM Standard
+259846,Skip Exhausted,Skip Tracing,"Dialled Numbers:
+Contact: NA
+IVR: NA
+Notes: NA.
+Documents: 
+Angel A Austin Jr- 575-449-0775- Diss.
+CBC:
+Borr- Alden J Banslaben- 575-449-4103- GVMl.
+Jennifer Banslaben Austin- 575-312-2470- Busy.
+Result: Skip Exhausted.",10/03/2022,Mahesh Patil,PHH Mortgage Services,HECM Standard
+260189,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:tina dailed home 3036745624 got john 
+Alt Cont:home 3036747171 active 
+Notes :spoke with john verified address home number denied email and cell and gave customer care number
+Result :RPC/PHONE",10/03/2022,Allwyn Dsouza,VF1-NA Trust,Equity IQ - Fixed
+260551,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+B1:9038964308-disc#-deleted
+2145491354-Gvcml-Pvcml for Randy Taylor-validated
+B2:9038910356-Disc#-deleted
+Result:PHN 
+Skip Hygiene done- Active number present under B1  hence closed the SKPTRC alert",10/03/2022,Deepika Mathur,PHH Mortgage Services,HECM IDL
+261037,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:wayne cell 9187040588 active 
+Alt Cont:  
+Notes :spoke with wayne confirmed address email and cell denied adding home number
+Result:RPC/PHONE",10/03/2022,Allwyn Dsouza,PHH Mortgage Services,HECM IDL
+261745,RPC Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: MABLE ALLISON - (254) 854-2368  spoke to her gave tape disclosure she verified her contact information correct on file no alternate number given to update no further questions.
+Result: RPC Phone",10/03/2022,Asha Shukla,SHAP Acquisitions Trust HB2 Nomura,HECM Standard
+261877,Non-Voice Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: SHIRLEY D TUMA - 7635454886 GVCML (good active # present) good active # present
+Alternate Contact : Na
+Notes:  Na
+Documents: Mike 4123492728 Disc#
+Annette Dreier - 7635441245 PVCML updated in contacts validated on CBC
+CBC: Na
+Result: Non voice phone
+Skip Hygiene done- Active number present under SHIRLEY D TUMA and Annette Dreier hence closed the skptrc alert",10/03/2022,Asha Shukla,Cascade Funding Mortgage Trust - HB8,HECM Standard
+262167,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:No info
+ATP:Maggie C.  Alvarez Colon:7879061924-Pvcml for Maggie-validated
+Result:
+Skip Hygiene done- Active number present under Alt Cont hence closed the SKPTRC alert",10/03/2022,Deepika Mathur,Cascade Funding Mortgage Trust - HB8,HECM Standard
+262169,Skip Exhausted,Skip Tracing,"Numbers Dialed:
+Contacts : ANN B ELLINGSON : bwr : no info
+Alt contact : Nicholas H Ellingson : no info
+IVR : no info
+Notes: 8012660576 : no ans (doc)
+Documents: 801-808-2554 : bn
+CBC Innovis : Alt contact : Nicholas H Ellingson 
+801-272-1942 : black : LV bn
+No good Ph #  found in contact, IVR, notes, documents and CBC Innovis.
+Result: Skip Exhausted
+",10/03/2022,Megha Sawant,Cascade Funding Mortgage Trust - HB8,HECM Standard
+262173,Non-Voice Phone,Skip Tracing,"Dialled Numbers:
+Contact:
+Alt- Elizabeth Fabelo- (786) 426-8745- GVMl.
+IVR: NA.
+Notes: Same As Above.
+Documents: 
+Borr- JUANA FABELO-GARCIA- 787-470-2249- Diss
+787-295-1515- Diss.
+787-223-2480- NIS.
+CBC:
+Borr- JUANA FABELO-GARCIA- 787-470-2249- NIS.
+Result: Non Voice Phone.
+
+Skip Hygiene done- Active number present under Contacts hence closed the SKPTRC alert.
+",10/03/2022,Mahesh Patil,Cascade Funding Mortgage Trust - HB8,HECM Standard
+262282,Skip Exhausted,Skip Tracing,"Dialled Numbers:
+Contact:
+Borr-JUDY DOLORES MAXEY- (903) 586-0767- No Answer.
+IVR: NA.
+Notes:
+Borr-JUDY DOLORES MAXEY- 3173433330- NIS.
+Documents: 
+Borr-JUDY DOLORES MAXEY- 972-475-9651- Hungup.
+Leslie Blemly- 972-607-5253- GVMl.
+CBC: Same As Above.
+Result: Skip Exhausted.",10/03/2022,Mahesh Patil,SHAP Acquisitions Trust HB1 Barclays,HECM Standard
+262351,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:2192008043-Pvcml for Lorraine-deleted
+Alt Cont:Julie Montealegre:2196705071-Gvcml-validated
+ATP:Eric Montealegre:2192008043:2192008043-Pvcml for Lorraine-deleted
+Result:PHN 
+
+Skip Hygiene done- Active number present under Alt Cont:Julie Montealegre hence closed the SKPTC alert",10/03/2022,Deepika Mathur,SHAP Acquisitions Trust HB2 Nomura,HECM Standard
+262433,RPC Phone,Skip Tracing,"Numbers Dialed: 
+Brwr:  Na
+Alternate Contact : MARY DEBORAH RICE - 9795740186 
+Notes:  Na
+Documents: 9794920518 Bad#, 
+CHRIS FLOYD2814504736 - spoke to him he verified his name and call got disconnected updated number in contacts also validated number on CBC
+CBC: CHRIS  FLOYD 2814504736 Already dialed 
+Result: RPC Phone",10/03/2022,Asha Shukla,SHAP Acquisitions Trust HB2 Nomura,HECM Standard
+262997,Skip Exhausted,Skip Tracing,"Numbers Dialed:
+Contacts : JOAN R LEWIS : bwr : **
+(305) 933-8514 : gvml (notes)
+Alt contact : Linda Dascanio :
+(972) 529-6458 : dc ....removed the # (doc)
+IVR : no info
+CBC Innovis : 305-932-7825 : black : dc
+No good Ph #  found in contact, IVR, notes, documents and CBC Innovis.
+Result: Skip Exhausted",10/03/2022,Megha Sawant,Cascade Funding Mortgage Trust - HB8,HECM Standard
+263363,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:david no info found
+Alt Cont:  kathleen cell 3078508847 active
+Notes :verified info with kathleen address email and cell denied home number also denied call transfer said she is already speaking phh attorney
+Result:RPC/PHONE",10/03/2022,Allwyn Dsouza,Cascade Funding Mortgage Trust - HB8,HECM Standard
+263593,Non-Voice Phone,Skip Tracing,"
+Numbers Dialed:
+Bor2--(407) 401-1815--Rafael Urbina Rodriguez--personal VM
+Bor2--(240) 344-2958--GVML
+Alt1--(787) 833-7579--Milagros Estrany--NIS removed#
+
+IVR data:
+no info found
+
+Notes:
+no # found
+
+Documents:
+no new # found
+
+CBC:
+787-652-4538--Milagros Estrany--no answer
+
+Result:
+non voice locate for the as active # and GVML for the co-brw",10/03/2022,Austin Chettiar,SHAP Acquisitions Trust HB1 Barclays,HECM Standard
+292361,RPC Phone,Skip Tracing,"Numbers Dialed:
+Bor1--(708) 465-6573--Linda Jones-Bolton--RPC
+
+Result:
+RPC with the auth party gave tape disclosure verified cell# and home # took TCPA consent confirmed mailing address and email address and had question about the occupancy gave the # fr HRD and while trns the call said no time and hung up",10/04/2022,Austin Chettiar,F.N.M.A.,HECM Standard
+292369,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts : SARA COLQUHOUN : B1 :
+(973) 271-3742 : spoke with B1 ....she herself confirmed her cell # and mailing address...no change to the mailing address...she said that she was busy hence could not continue with the call..
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result : RPC Phone",10/04/2022,Megha Sawant,F.N.M.A.,HECM Standard
+296423,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Alt1--(860) 295-0701--William Foster--NIS Removed#
+Alt1--(860) 841-5415--William foster--PVML
+
+Result:
+non Voice locate fr the alt contact as reached PVML and active #",10/04/2022,Austin Chettiar,F.N.M.A.,HECM Standard
+296432,Non-Voice Phone,Skip Tracing,"Alt contact : 
+Numbers Dialed:
+Contacts : ZETTA PIERCE : Bwr :
+(404) 968-9022 : rining no ans
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result : Non-Voice Phone",10/04/2022,Megha Sawant,F.N.M.A.,HECM Standard
+296497,Skip Exhausted,Skip Tracing,"Numbers Dialed: 
+Brwr: Na
+Alternate Contact : Na
+Notes: Na
+Documents: MARY ANN FREY - 4102851397 PVCML for other person
+CBC: 4432552449 Gvcml, 4432552526 recipient disconnected, 4102842353 Bad#
+Result: Skip exhausted
+No good contact # found in notes, documents and CBC Innovis.",10/04/2022,Asha Shukla,F.N.M.A.,HECM Standard
+296855,Skip Exhausted,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:dalton no contact found
+Alt Cont:dorothy no contact found 
+Notes :checked closing docs number and cbs no records found
+Result :SKPEXH
+",10/04/2022,Allwyn Dsouza,F.N.M.A.,HECM Standard
+297091,Skip Exhausted,Skip Tracing,"Numbers Dialed:
+Alt1--(513) 603-3791--Stephanie Dwyer--Disc# Removed#
+
+Ivr data:
+no info found
+
+Notes:
+(301) 845-2412--Beatrice Dorsey--Disc#
+
+Documents:
+no new # found
+
+CBC:
+no new # found
+
+Result:
+Skip Exhausted",10/04/2022,Austin Chettiar,F.N.M.A.,HECM Standard
+297407,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts : AUDREY L KONWINSKI : bwr1 :
+(715) 723-5151 : pvml ""AUDREY L KONWINSKI :""
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result : Non-Voice Phone",10/04/2022,Megha Sawant,F.N.M.A.,HECM Standard
+297740,Non-Voice Phone,Skip Tracing,"Dialled Numbers:
+Contact:
+Borr- SHERNETTIA W DEAN- (616) 477-7615- PVML.
+Result: Non Voice Phone.
+
+Skip Hygiene done- Active number present under Contacts hence closed the SKPTRC alert.",10/04/2022,Mahesh Patil,F.N.M.A.,HECM Standard
+297837,Non-Voice Phone,Skip Tracing,"Numbers Dialed:
+Contacts : PAULINE GAGNON :B1:
+(401) 453-0293 : gvml
+(401) 580-2691 : gvml
+Skip Hygiene done- Active number present  hence closed the SKPTRC alert
+Result : Non-Voice Phone",10/04/2022,Megha Sawant,F.N.M.A.,HECM Standard
+297866,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts : SHIRLEY ANN SELF : bwr :
+(804) 724-1677 : spoke with bwr confirmed the # as good cell # consent yes...updated the same ...no change to the mailing...bwr does not have email address.
+Result : RPC Phone
+",10/04/2022,Megha Sawant,F.N.M.A.,HECM Standard
+297931,RPC Phone,Skip Tracing,"Dialled Numbers:
+Contact:
+Borr- PAMELA T KORROW- (910) 692-6813.
+She verified her self and said cannot understand me and Hungup.
+Result: RPC Phone.
+case number is 80402905.
+",10/04/2022,Mahesh Patil,F.N.M.A.,HECM Standard
+297960,Non-Voice Phone,Skip Tracing,"Numbers Dialed: 
+Brwr: MALCOLM H CLARK - 8034200549 GVCML (good active # present)
+Alternate Contact : Na
+Notes: Na
+Documents: JIMMY N HARTER - 8037991630 Disc#
+CBC: MALCOLM CLARK - 8034385459 Disc#
+Result: Non Voice Phone
+No good contact # found in notes, documents and CBC Innovis.
+Skip Hygiene done- Active number present under MALCOLM H CLARK hence closed the SKPTRC alert",10/04/2022,Asha Shukla,F.N.M.A.,HECM Standard
+298325,RPC Phone,Skip Tracing,"Numbers Dialed:
+Contacts:
+Bor:hester cell 6042456985 hung up
+Alt Cont:  vanessa same cell number no answer later caller home number  8047846063 actve
+Notes :spoke with vanessa verifed address and cell and home later she disconnected 
+Result :RPC/PHONE",10/04/2022,Allwyn Dsouza,F.N.M.A.,HECM Standard
+299255,Skip Exhausted,Skip Tracing,"Dialled Numbers:
+Contact: NA.
+IVR: NA.
+Notes: NA.
+Documents: 
+Borr- JAMES E HOOVER- 540-665-0534- NIS.
+540-665-8546- NIS.
+CBC: 
+Borr- JAMES E HOOVER- 540-303-7306- NIS.
+Alt- DAVID HOOVER- 410-394-1149- NIS.
+Result: Skip Exhausted.",10/04/2022,Mahesh Patil,F.N.M.A.,HECM Standard
